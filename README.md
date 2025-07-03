@@ -9,8 +9,8 @@ Goal: Improve problem-solving, logic building, and prepare for coding interviews
 
 ## 🛠️ Tech Stack
 - Language: Python 3
-- Platforms: LeetCode, HackerRank
-- IDE: VS Code / Jupyter Notebook / Colab
+- Platforms: LeetCode
+- IDE: VS Code / Jupyter Notebook 
 
 ---
 

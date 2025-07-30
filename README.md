@@ -24,7 +24,7 @@ Goal: Improve problem-solving, logic building, and prepare for coding interviews
 
 | No. | Problem | Solution | Link |
 |-----|---------|----------|------|
-| 1   | Two Sum | ✅        | [Link]() |
+| 1   | Two Sum | ✅        | [Link](https://github.com/RaginiAG/Beginner-to-Pro-DSA-Python/blob/main/1.%20Two%20Sum) |
 | 2   | Add Two Numbers | 🚧 | [Link]() |
 
 

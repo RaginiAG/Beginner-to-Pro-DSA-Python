@@ -24,8 +24,8 @@ Goal: Improve problem-solving, logic building, and prepare for coding interviews
 
 | No. | Problem | Solution | Link |
 |-----|---------|----------|------|
-| 1   | Two Sum | ✅        | [Link](https://leetcode.com/problems/two-sum/) |
-| 2   | Add Two Numbers | 🚧 | [Link](https://leetcode.com/problems/add-two-numbers/) |
+| 1   | Two Sum | ✅        | [Link]() |
+| 2   | Add Two Numbers | 🚧 | [Link]() |
 
 
 
